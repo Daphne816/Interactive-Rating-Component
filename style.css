@@ -78,7 +78,9 @@ input[type="radio"]:not([id="rating2"]) {color: red;}
 
 .card {background-color: var(--clr-dark-blue);
        border-radius: 1rem;
-       padding: 2rem 1rem;}
+       padding: 2rem 1rem;
+       width: 295px;
+       margin-inline: auto;}
 
 .option {background-color: var(--clr-dark-blue);
          color: var(--clr-white);
